@@ -1,7 +1,7 @@
 # Jordtris
 A simple recreation of Tetris in a terminal, made with rust🦀!
 
-https://github.com/user-attachments/assets/beb0c560-11a4-4e5f-bedf-47694bdb4208
+https://github.com/user-attachments/assets/c420b748-d0f3-4c4d-9161-9fd1bacbc217
 
 ## Features
 
