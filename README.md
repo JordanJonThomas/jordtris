@@ -10,7 +10,6 @@ https://github.com/user-attachments/assets/c420b748-d0f3-4c4d-9161-9fd1bacbc217
 - Game Over Detection
 - 7-bag piece queue
 - SRS Rotation system
-- 
 
 ## Controls
 | Key         | Action                     |
